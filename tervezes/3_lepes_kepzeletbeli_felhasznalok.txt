@@ -1,0 +1,29 @@
+﻿A képzeletbeli felhasználók tulajdonságainak összefoglalása.
+
+A szereplők további feltérképezése az interjúk eredményei alapján.
+
+Szereplő
+
+<Trainer>
+Tulajdonságai
+< -enthusiastic about spreading knowledge and experiences likes accuracy>
+  -likes accuracy>
+Céljai
+< - provide the best service availability for the students 
+  - be as flexible and reachable as possible reduce efforts related to organization and administration>
+  - reduce the probability of error
+  - reduce the necessity of individual agreements with the students on the meetings
+>
+Fenntartásai (félelmei)
+<
+ - students may jump in-andout the different timeslots, which is hard to follow 
+ - being not notified about changes in the schedule 
+ - schedule fills up too quick, need to add more timeslots 
+>
+Tipikus idézetek az interjúból
+< -"The action of booking a meeting must not scare students to meet and network with me"
+  -"I do believe that nothing can top personal mentoring and guidance for students when learning a new skill"
+>
+
+
+

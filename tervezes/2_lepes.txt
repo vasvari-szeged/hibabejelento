@@ -1,0 +1,16 @@
+A rendszer felhasználói és azok mit csinálhatnak a rendszerben?
+
+(Példa: 
+Trainer
+The organizer of the training, the service provider for consultation sessions)
+
+
+
+Megoldás:
+
+Szereplő1 megnevezése. 
+Tevékenységei...
+
+
+Szereplő2 megnevezése. 
+Tevékenységei...

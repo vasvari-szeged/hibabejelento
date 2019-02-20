@@ -1,0 +1,13 @@
+Kérdések a szereplőkhöz!
+
+
+
+<Szereplő neve>
+<Kérdések>
+<Válaszok>
+
+
+
+<Szereplő neve>
+<Kérdések>
+<Válaszok>

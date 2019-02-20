@@ -1,0 +1,17 @@
+﻿Interjú után összefoglaljuk amit megtudtunk!
+
+A felhasználók jelenleg milyen tevékenységet végeznek és hogyan? 
+(A rendszer már működhet valamilyen informatikai megoldással, vagy esetleg számítógépes megoldás nélkül működik)
+
+Egy táblázatot kell elkészíteni a követekző formátumban:
+
+Felhasználó megnevezése!
+<Trainer>
+Mit csinál?                                    
+<Plans the consultation schedule with the available timeslots>
+Jelenleg hogyan csinálja?
+<1.creates an Excel spreadsheet
+2.adds the timeslots with the dates and the times
+3. shares the spreadsheet on OneDrive for editing
+4. distributes the link to the students>
+

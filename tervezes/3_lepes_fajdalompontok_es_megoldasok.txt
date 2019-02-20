@@ -1,0 +1,16 @@
+﻿Az interjú során előfordulnak kényes kérdések. Ezeket összefoglaljuk. 
+Elgondolkodunk azon, milyen megoldásokat javasoljunk ezektre.
+
+
+Kényes, problémás kérdések és válaszok az interjú során!	                 
+
+<Sharing the list of timeslots is not convenient, OneDrive is not
+intuitive, has a few limitations (time of sharing, access control, etc.)>	
+
+Megoldási javaslat:
+
+<The system should provide an easy way for the teacher to publish
+available timeslots and for the students to view the available
+timeslots and perform the reservation.
+Only the training participants can have access to the schedule>
+
