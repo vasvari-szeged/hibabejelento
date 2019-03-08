@@ -1,1 +1,2 @@
 Írja le röviden mi a kifejlesztendő alkalmazás célja!
+Az alkalmazás célja az, hogy ha egy iskolán belül valamilyen hiányosság, hiba vagy esetleg rongálás keletkezik, azt a tanárok abban a pillanatban tudják jelezni, amikor meglátják, így könnyebb a fontos hibák gyors kijavítása és a tettes elkapása rongálások esetén.
