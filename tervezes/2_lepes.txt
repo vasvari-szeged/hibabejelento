@@ -8,9 +8,6 @@ The organizer of the training, the service provider for consultation sessions)
 
 Megoldás:
 
-Szereplő1 megnevezése. 
-Tevékenységei...
-
-
-Szereplő2 megnevezése. 
-Tevékenységei...
+Rendszergazda - Az egész rendszer felügyelője, a szoftveres problémák kijavítója, az összes ticketet kezeli.
+Tanár - Ő jelenti be a problémákat ebbe a programba, amit a rendszergazda feldolgoz.
+Igazgató - Hozzáfér a rongálásokhoz és akár Ő maga is tud változtatni az ilyen típusú ticketek állapotán.
