@@ -4,13 +4,14 @@ Elgondolkodunk azon, milyen megoldásokat javasoljunk ezektre.
 
 Kényes, problémás kérdések és válaszok az interjú során!	                 
 
-<Sharing the list of timeslots is not convenient, OneDrive is not
-intuitive, has a few limitations (time of sharing, access control, etc.)>	
+1. Hogyan tudna minden felhasználója a programhoz hozzáférni könnyedén?
+2. Miért is lenne jobb ez a rendszer, mint az eddig működő rendszer?
+3. Hogyan is működne ez pontosan?
+4. Ez miben térne el a mostani rendszerben?
 
 Megoldási javaslat:
 
-<The system should provide an easy way for the teacher to publish
-available timeslots and for the students to view the available
-timeslots and perform the reservation.
-Only the training participants can have access to the schedule>
-
+1. A program elérhető lenne webes felületen, grafikus felületen és még az androidos telefonokon is
+2. Azért lenne jobb, mert a saját kódunk sokkal kisebb rendszerigényű, mivel csak arra fejlesztjük, ami feltétlenül szükséges. Ezen felül ezt tudnánk az iskolai szerverről futtatni, így elkerülve mindenféle külső behatást a program akadálytalan futtatásában.
+3. Mivel még nincsen stabil terv, ezért a felhasználók véleménye ki lesz kérdezve, ki mit hogyan szeretne a programban látni.
+4. Minden hibajelentésnek van időcímkéje, innentől fogva sokkal egyszerűbb lekövetni, mikor volt, melyik osztály volt akkor a teremben, és ki ült akkor ott.
