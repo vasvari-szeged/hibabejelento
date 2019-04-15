@@ -1,13 +1,29 @@
 Kérdések a szereplőkhöz!
 
 
+Rendszergazda
+Kérdések:
+1. Milyen platformon használná a programot adminisztrációra?
+2. Milyen platformokra ajánlaná a programot a tanárok számára?
+3. Hogyan képzelné el az egész rendszert?
+4. Ha lenne egy ilyen program, mennyire használná?
+5. Milyen kétségei vannak a programmal kapcsolatban?
 
-<Szereplő neve>
-<Kérdések>
-<Válaszok>
+Válaszok:
 
+Tanár
+Kérdések:
+1. Ha lenne egy ilyen program, használná minden órán jelentésre?
+2. Böngészőben, vagy inkább telefonon használná ezt a programot?
+3. Milyen kétségei vannak a programmal kapcsolatban?
 
+Válaszok:
 
-<Szereplő neve>
-<Kérdések>
-<Válaszok>
+Igazgató / Intézményvezető(k)
+Kérdések:
+1. Ön(ök) hasznáknák ezt a programot arra, hogy egy rongálási ügyet minél hamarabb megoldjanak?
+2. Milyen részletességgel és milyen sűrűn szeretnének visszajelzést kapni?
+3. Milyen felületen használnák a programot statisztikára és alkalmankénti problémamegoldásra?
+4. Milyen kétségei vannak a programmal kapcsolatban?
+
+Válaszok:
