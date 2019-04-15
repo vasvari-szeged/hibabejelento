@@ -2,28 +2,39 @@
 
 A szereplők további feltérképezése az interjúk eredményei alapján.
 
-Szereplő
+Szereplő: Rendszergazda
 
-<Trainer>
-Tulajdonságai
-< -enthusiastic about spreading knowledge and experiences likes accuracy>
-  -likes accuracy>
-Céljai
-< - provide the best service availability for the students 
-  - be as flexible and reachable as possible reduce efforts related to organization and administration>
-  - reduce the probability of error
-  - reduce the necessity of individual agreements with the students on the meetings
->
-Fenntartásai (félelmei)
-<
- - students may jump in-andout the different timeslots, which is hard to follow 
- - being not notified about changes in the schedule 
- - schedule fills up too quick, need to add more timeslots 
->
-Tipikus idézetek az interjúból
-< -"The action of booking a meeting must not scare students to meet and network with me"
-  -"I do believe that nothing can top personal mentoring and guidance for students when learning a new skill"
->
+Céljai:
+  - Egy gördülékeny rendszer kezelése, ahol látja, mikor, hol, milyen probléma van pontos leírással. 
+  - Szoftveres és hardveres problémák minél hamarabbi megoldása
+  - A kommunikáció egyszerű fenntartása a többi felhasználóval
+  
+Fenntartásai (félelmei):
+  - Nem működik úgy a rendszer, ahogyan azt elképzelte
+  - Frissen talált hibákat nem tudja egyedül megoldani, mint ahogyan egy népszerű keretrendszerben lehet.
+  - Pozitív visszajelzések nélkül nem tudnánk pontosra meghatározni még így sem a tettest.
+  
+  
+Szereplő: Tanár
 
+Céljai:
+  - A hibák azonnali bejelentése annak érdekében, hogy minél hamarabb megoldódjon az adott probléma 
+  - A fölösleges faggatások elkerülése rongálási ügyekben
+  - Gördülékeny kommunikáció a rendszergazdával
+  
+Fenntartásai (félelmei):
+  - Nem működik úgy a rendszer, ahogyan azt elképzelte
+  - Nem lát jelentősebb előrehaladást az előző módszerhez képest, ezért nem hisz a programban
+  - Nehezen lehet egy ilyen rendszerbe beleszokni
+  
+  
+Szereplő: Igazgató / Intézményvezető(k)
 
-
+Céljai:
+  - A rongálások tetteseinek előkerítése
+  - Az iskolai rendszer folyamatos fenntartása
+  - A többi probléma megoldása a hatékony munkavégzés érdekében
+  
+Fenntartásai (félelmei):
+  - Nem működik úgy a rendszer, ahogyan azt elképzelte
+  - Szerinte(tük) még így is nehézkes a tettes megtalálása néhány esetben
